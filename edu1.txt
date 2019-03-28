@@ -1,0 +1,1 @@
+While making the changes and commit to the changes made, 1st add the file to the index using git add.
